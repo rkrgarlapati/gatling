@@ -49,7 +49,7 @@
             </goals>
             <configuration>
               <sources>
-                <source>src/test/scala</source>
+                <source>src/test/scala/java</source>
               </sources>
             </configuration>
           </execution>
@@ -61,7 +61,7 @@
             </goals>
             <configuration>
               <sources>
-                <source>src/test/scala</source>
+                <source>src/test/scala/java</source>
               </sources>
             </configuration>
           </execution>

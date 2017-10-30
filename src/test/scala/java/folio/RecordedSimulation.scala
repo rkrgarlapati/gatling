@@ -1,4 +1,4 @@
-package com.hilton.folio
+package java.folio
 
 import scala.concurrent.duration._
 
