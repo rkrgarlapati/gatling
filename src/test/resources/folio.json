@@ -1,0 +1,10 @@
+{
+  "folioStatus": "open",
+  "comments": "my test comment",
+  "owner": {
+    "ownerId": ${startGene},
+    "ownerType": "groupaccount"
+  },
+  "folioOpenDate": "2017-10-13",
+  "folioCloseDate": "2017-10-14"
+}
